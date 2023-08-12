@@ -23,7 +23,7 @@ const UsersListPage = () => {
     return (
         <>
             <Panel subtitle='Users' button={ <Button m='0 auto' onClick={onOpen}>Add User</Button> }>
-                { renderedUsers.length && renderedUsers }
+                { renderedUsers.length > 0 && renderedUsers }
             </Panel>
 
             <FormModal onClose={onClose} isOpen={isOpen} title='Add User'>
