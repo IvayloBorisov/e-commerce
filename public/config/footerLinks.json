@@ -1,0 +1,36 @@
+{
+    "footerSections": [
+        {
+            "heading": "Help and Information",
+            "footerLinks": [
+                {"name": "Help", "url": "/help"},
+                {"name": "Track order", "url": "/track-order"},
+                {"name": "Delivery & returns", "url": "delivery-returns"},
+                {"name": "Sitemap", "url": "/sitemap"}
+            ]
+        },
+        {
+            "heading": "About ASOS",
+            "footerLinks": [
+                {"name": "About us", "url": "/about"},
+                {"name": "Careers at ASOS", "url": "/career"},
+                {"name": "Corporate responsibility", "url": "corporate-responsibility"},
+                {"name": "Investor`s site", "url": "/investors"}
+            ]
+        },
+        {
+            "heading": "More from ASOS",
+            "footerLinks": [
+                {"name": "Mobile and ASOS apps", "url": "/apps"},
+                {"name": "ASOS Marketplace", "url": "/marketplace"},
+                {"name": "Gift vouchers", "url": "/gifts"},
+                {"name": "Black friday", "url": "/black-friday"},
+                {"name": "ASOS x Thrift+", "url": "/investors"}
+            ]
+        },
+        {
+            "heading": "Shopping from:",
+            "footerLinks": [{"name": "You are in ", "url": "/country"}]
+        }
+    ]
+}

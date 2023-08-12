@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "firstName": "Ivaylo",
+      "lastName": "Borisov",
+      "email": "battleseal@abv.bg",
+      "id": "653bec16-6e62-424c-ae46-a88260b3e7e4"
+    },
+    {
+      "firstName": "Ivaylo",
+      "lastName": "Borisov",
+      "email": "ivaylo_borisov@abv.bg",
+      "id": "ec73a604-7f3d-4fd9-b3da-5f8a7247d533"
+    },
+    {
+      "firstName": "Ivaylo",
+      "lastName": "Borisov",
+      "email": "ivaylo.tsencov@gmail.com",
+      "id": "8b1fdc3d-b6d1-4e36-9455-fec05a7f85e6"
+    },
+    {
+      "firstName": "Ivaylo",
+      "lastName": "Borisov",
+      "email": "pzd060@gmail.com",
+      "id": "a03e0d88-5506-4669-b0ee-392be656a4cd"
+    }
+  ],
+  "wishlists": []
+}
